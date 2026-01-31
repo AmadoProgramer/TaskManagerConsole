@@ -1,0 +1,1 @@
+{"version":3,"file":"tarea.d.ts","sourceRoot":"","sources":["../../src/models/tarea.ts"],"names":[],"mappings":"AAEA,MAAM,CAAC,OAAO,OAAO,KAAK;IACtB,EAAE,EAAE,MAAM,CAAC;IACX,IAAI,EAAE,MAAM,CAAC;IACb,YAAY,EAAE,MAAM,GAAG,IAAI,CAAC;gBAEhB,IAAI,EAAE,MAAM;CAK3B"}
