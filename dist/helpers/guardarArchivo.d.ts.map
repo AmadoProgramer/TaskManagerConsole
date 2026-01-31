@@ -1,0 +1,1 @@
+{"version":3,"file":"guardarArchivo.d.ts","sourceRoot":"","sources":["../../src/helpers/guardarArchivo.ts"],"names":[],"mappings":"AACA,OAAO,KAAK,MAAM,oBAAoB,CAAC;AAIvC,UAAU,SAAS;IACf,EAAE,EAAE,MAAM,CAAC;IACX,IAAI,EAAE,MAAM,CAAC;IACb,YAAY,EAAE,MAAM,GAAG,IAAI,CAAC;CAC/B;AAED,eAAO,MAAM,SAAS,GAAI,MAAM,KAAK,EAAE,KAAG,IAOzC,CAAC;AAEF,eAAO,MAAM,MAAM,QAAO,SAAS,EAAE,GAAG,IAOvC,CAAC"}
