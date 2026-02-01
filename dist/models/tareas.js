@@ -66,8 +66,11 @@ export default class Tareas {
             }
         });
         this.listadoArr.forEach(tarea => {
-            if (!ids.includes(tarea.id) && this._listado[tarea.id]) {
-                this._listado[tarea.id].completadoEn = null;
+            if (!ids.includes(tarea.id)) {
+                const tareaEnListado = this._listado[tarea.id];
+                if (tareaEnListado) {
+                    tareaEnListado.completadoEn = null;
+                }
             }
         });
     }

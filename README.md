@@ -92,3 +92,14 @@ Proyecto desarrollado como proyecto personalizado para practicar aplicaciones en
 ## 📄 Licencia
 
 ISC
+
+## NOTA IMPORTANTE
+
+```
+npm run dev:
+```
+ Ejecuta TypeScript directamente vía tsx → stdin/stdout limitado → inquirer no puede capturar las flechas correctamente
+```
+npm run start: 
+```
+Compila a JavaScript primero → Ejecuta JS puro → Node.js maneja mejor stdin/stdout → Inquirer funciona perfecto
